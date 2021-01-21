@@ -45,9 +45,9 @@ body{
 .videos{
     text-align: center;
 }
-.videos video{
+.videos iframe{
     margin-top: 50px;
-    margin-left: 20px;
+    margin-left: 60px;
 }
 .images{
     text-align: center;
